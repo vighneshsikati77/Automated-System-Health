@@ -1,4 +1,5 @@
 System Health Monitor Script
+
 Description
 This bash script monitors system health by providing options to check disk usage, active services, memory status, CPU load, and email a full system report.
 
